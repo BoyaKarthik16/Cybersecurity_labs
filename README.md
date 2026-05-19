@@ -13,7 +13,7 @@ Passionate about cybersecurity and defensive security
 
 
 # Labs Included
-_____________________________________________________________________________________
+
 | Lab No | Lab Name                 | Description                                   |
 | ------ | ------------------------ | --------------------------------------------- |
 | Lab 1  | Firewall Configuration   | Configure inbound and outbound firewall rules |
@@ -21,7 +21,6 @@ ________________________________________________________________________________
 | Lab 3  | Network Packet Analysis  | Capture and analyze packets using Wireshark   |
 | Lab 4  | Intrusion Detection      | Understanding IDS alerts                      |
 | Lab 5  | Linux Security Hardening | Securing Linux system                         |
-_____________________________________________________________________________________
 
 
 
